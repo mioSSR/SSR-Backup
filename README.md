@@ -1,5 +1,7 @@
 # SSR 配置教程
 
+## **需要梯子购买请联系[mio.ssr.acount@gmail.com](mio.ssr.acount@gmail.com) **
+
 ## 1. 下载并使用客户端
 - 提供[Windows](https://github.com/mioSSR/SSR-Backup/releases)/[Android](https://github.com/mioSSR/SSR-Backup/releases) 下载  
 - WIN把压缩包里面的**所有文件**解压到一个文件夹中。**Win版本根据电脑.net版本选择2.\*/4.\***
