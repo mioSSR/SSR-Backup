@@ -1,7 +1,7 @@
 # SSR 配置教程
 
 ## 1. 下载并使用客户端
-- 提供[Windows](https://github.com/mioSSR/SSR-Backup/releases/download/untagged-2aebb6f09ad5a7786faf/ShadowsocksR-4.6.1-win.7z)/[Android](https://github.com/mioSSR/SSR-Backup/releases/download/untagged-2aebb6f09ad5a7786faf/ShadowsocksR-3.4.0.5-android.apk) 下载  
+- 提供[Windows](https://github.com/mioSSR/SSR-Backup/releases)/[Android](https://github.com/mioSSR/SSR-Backup/releases) 下载  
 - WIN把压缩包里面的**所有文件**解压到一个文件夹中。**Win版本根据电脑.net版本选择2.\*/4.\***
 - 打开程序之后第一步先找到 SSR 的任务栏图标（纸飞机样子的图标），双击打开,删除原有服务器订阅(作者停止维护,已失效).添加完服务器后,*右键小飞机切换到自己的服务器(***重要!!!**).
 - Android打开后一样,点击ShadowSocks右下角出现操作提示.
