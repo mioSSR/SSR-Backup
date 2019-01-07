@@ -12,7 +12,12 @@
 ## 2. 功能说明(右键小飞机更改设置)
 - 直连模式
   1. 此模式下http不走SSR代理,请采用Socks5代理方式连接,默认端口1080(Telegram/浏览器代理 等配置代理为127.0.0.1:1080).
-  2. Chrome/Firefox + SwitchyOmega +直连模式超级好用. 规则列表采用*https://github.com/gfwlist/gfwlist/blob/master/gfwlist.txt*   
+  2. Chrome/Firefox + SwitchyOmega +直连模式超级好用. 
+   **SwitchyOmega配置说明**
+     1. 设置SSR代理模式。设置SSR代理模式为直连模式.
+     2. 设置SSR代理规则。设置为全局模式.
+     3. 修改SwitchyOmega代理规则。采用socks5//1270.0.1:1080<br>![](SwitchyOmega_proxy.png)
+     4. 添加autoSwitch规则，规则列表跟新地址采用*https://github.com/gfwlist/gfwlist/blob/master/gfwlist.txt*/*https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt*
   ![](SwitchyOmega.png)
 - PAC模式
   使用PAC文件控制代理。PAC文件包含了规则列表，控制流量走SSR或者不走SSR(配置文件*SSR目录下pac.txt*),可以自行修改.
